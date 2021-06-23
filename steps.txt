@@ -1,0 +1,5 @@
+yarn create react-app letmeask --template typescript
+
+http://console.firebase.google.com
+
+yarn add firebase
