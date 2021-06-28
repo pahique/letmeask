@@ -15,4 +15,19 @@ yarn add react-modal
 yarn add classnames
 
 npm install -g firebase-tools
+ou
+yarn global add firebase-tools
+
+firebase login
+(clicar em permitir)
+
+firebase init
+(selecionar "Realtime Database" e a primeira opção de "Hosting")
+(usar "build" como public directory)
+(selecionar que é uma SPA - single page application)
+
+yarn build
+firebase deploy
+
+video "Responsividade na prática" da Rocketseat
 
